@@ -3,7 +3,7 @@
 Multitenancy support with a shared DB and schema.
 
 ## TODO
-1. Need to add docker-compose with postgreSQL
+1. ~~Need to add docker-compose with postgreSQL~~
 2. Need to create entities, repos, service
 3. Add Hibernate filters
 4. Create custom annotation to mark query as tenancy and implement AOP to enable a filter for specified query.
